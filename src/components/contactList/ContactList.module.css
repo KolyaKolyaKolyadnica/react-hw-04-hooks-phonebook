@@ -1,0 +1,13 @@
+.list {
+  padding: 0;
+  width: 80%;
+}
+.listItem {
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+}
+.contact {
+  width: 300px;
+}
